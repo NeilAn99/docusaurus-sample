@@ -1,4 +1,4 @@
 module.exports = {
-    url: 'https://github.com',
+    url: 'https://neilan99.github.io/',
     baseUrl: '/docusaurus-sample/',
 }
